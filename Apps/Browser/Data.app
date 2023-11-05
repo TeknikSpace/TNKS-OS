@@ -1,3 +1,3 @@
-App.Name=%YOURAPPNAME%
-App.Buttons=%YOURJSON%
-App.URL.OtherButtonsList=%YOURJSON%
+App.Name=Browser
+App.Buttons=["New Tab","Reload Tab"]
+App.URL.OtherButtonsList=[]
