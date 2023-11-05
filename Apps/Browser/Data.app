@@ -1,4 +1,4 @@
 App.Name=Browser
-App.Buttons=["New Tab","Reload Tab"]
+App.Buttons=["https://google.com"]
 App.URL.OtherButtonsList=[]
-App.class=Local
+App.class=Remote
