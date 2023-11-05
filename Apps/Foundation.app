@@ -1,3 +1,3 @@
-App.Name=%YOURAPPNAME%
-App.Buttons=%YOURJSON%
-App.URL.OtherButtonsList=%YOURJSON%
+App.Name=Foundation
+App.Buttons=[]
+App.URL.OtherButtonsList=[]
