@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>No App HTML Found</title>
+    <script>
+            var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+            var height = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+    </script>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -23,10 +27,9 @@
         }
 
         img {
-            width: 400px;
-            height: 400px;
+            width: 35%;
             object-fit: cover; /* Ensure the image covers the entire container */
-            border-radius: 50%; /* Make the image round */
+            border-radius: 25%; /* Make the image round */
         }
     </style>
 </head>
